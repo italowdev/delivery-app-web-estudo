@@ -1,15 +1,6 @@
 # FoodGo — Delivery Web
 
-Aplicativo web de delivery feito com React + JSX + Vite.
-
-## Executar
-
-```bash
-npm install
-npm run dev
-```
-
-Depois acesse o endereço mostrado pelo Vite, normalmente `http://localhost:5173`.
+Aplicativo web de delivery para estudo feito com React + JSX + Vite.
 
 ## Recursos
 
